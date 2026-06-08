@@ -1,4 +1,4 @@
-# 🔐 Password Generator
+# 🔐 Password Generator (Python)
 
 ## 📌 Description
 This is a Python script that generates strong random passwords using letters, numbers, and symbols.
